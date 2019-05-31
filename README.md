@@ -1,3 +1,5 @@
+Copyright (c) 2019, [Donald D. Rogers II](https://www.linkedin.com/in/donaldrogersii/)
+
 # University-Data-Collection-With-Python
 The following repository has been designed with the intent of university data collection for various research projects.
 
