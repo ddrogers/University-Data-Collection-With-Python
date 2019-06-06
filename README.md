@@ -7,6 +7,9 @@ Code presented here focuses on the collection of information on Faculty members 
 
 Each Python script allows a user to collect information on Faculty members of the College of Engineering for a selected department. When implemented, each script opens a Chrome browser, giving a user the chance to view the information collection process in real-time. 
 
+## Start
+To run code, download all files to desired directory, then from terminal, run the main.py script. 
+
 ## Script Name Metrics:
 - ce_be : College of Engineering - Biomedical Engineering Department
 - ce_cee: College of Engineering - Civil and Environmental Engineering Department
