@@ -23,6 +23,10 @@ Each Python script allows a user to collect information on Faculty members of th
 - Position: Faculty, Student, Adjunct, etc.
 - Research Paragraph: As given.
 - Research Interests: As given.
+- Office: To be added.
+- Phone: To be added.
+- E-mail: To be added.
+- Websites: To be added.
 
 ### Note
 The code is currently designed to operate on Windows OS with Google Chrome installed. 
